@@ -35,6 +35,9 @@
         <li style="font-size:18px">
             I do <i>full stack development</i> and keep exploring new fields 🔭
         </li>
+         <li style="font-size:18px">
+            I build <i>AI POCs, Machine Learning Pipelines and AI based Applications and Services. 🤖
+        </li>
         <li style="font-size:18px">
             <b>Music</b> and <b>love</b> makes the world go around 🎧
         </li>
