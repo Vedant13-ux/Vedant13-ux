@@ -1,4 +1,4 @@
-![Header image](header.png "Yo")
+<!-- ![Header image](header.png "Yo") -->
 
 <div align="center"> 
     <h1>Hello stranger! I'm Vedant Nagani 
@@ -69,8 +69,8 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
-     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
-      <img src=" https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
+      
     
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/>
  
