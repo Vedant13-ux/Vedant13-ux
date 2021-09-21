@@ -1,4 +1,4 @@
-<!-- ![Header image](header.png "Yo") -->
+![Header image](header.png "Yo")
 
 <div align="center"> 
     <h1>Hello stranger! I'm Vedant Nagani 
@@ -45,7 +45,10 @@
     <a href="https://www.linkedin.com/in/vedant-nagani">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/turbo_reflex/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/vedant-nagani">
+        <img height="30" src="https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/vedant.nagani"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <br>
 <h2>📊 My Stats</h2>
@@ -66,11 +69,11 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="canva" width="40" height="40" title="R"/>
+     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
+      <img src=" https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
+    
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django"/>
-
+ 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
@@ -80,7 +83,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
-  <img src="https://img.icons8.com/ios/452/selenium-test-automation.png" alt="selenium" width="40" height="40" title="Selenium" />
+   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
+
  
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
   <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="heroku" width="40" height="40" title="CSS3" />
@@ -89,7 +93,6 @@
 
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" title="React JS"/>
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"title="TypeScript"/>
- <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" title="canva"/>
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="flutter"/>
  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="canva" width="40" height="40" title="Expo"/>
- 
 </p>
